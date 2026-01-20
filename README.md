@@ -1,7 +1,7 @@
 # Guilherme Barreiro
 
-Estudante de Engenharia Informática (21 anos), atualmente a frequentar a licenciatura em Felgueiras, Portugal.  
-Interesse em desenvolvimento de aplicações web e em sistemas baseados em bases de dados relacionais.
+Estudante de Engenharia Informática, atualmente a frequentar a licenciatura em Felgueiras, Portugal.  
+Gosto de deselvolver aplicações web e sistemas baseados em bases de dados relacionais.
 
 ---
 
@@ -9,7 +9,6 @@ Interesse em desenvolvimento de aplicações web e em sistemas baseados em bases
 - Atualmente a trabalhar maioritariamente com **Java**
 - Interesse em **arquitetura de aplicações web** e **bases de dados relacionais**
 - Experiência em projetos académicos estruturados, com foco em lógica, organização e funcionamento correto
-- Valorizo código claro, modular e bem estruturado
 
 ---
 
