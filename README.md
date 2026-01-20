@@ -1,11 +1,8 @@
 # Guilherme Barreiro
 
+## Sobre mim
 Estudante de Engenharia Informática, atualmente a frequentar a licenciatura em Felgueiras, Portugal.  
 Gosto de deselvolver aplicações web e sistemas baseados em bases de dados relacionais.
-
----
-
-## Sobre mim
 - Atualmente a trabalhar maioritariamente com **Java**
 - Interesse em **arquitetura de aplicações web** e **bases de dados relacionais**
 - Experiência em projetos académicos estruturados, com foco em lógica, organização e funcionamento correto
