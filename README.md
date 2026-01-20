@@ -36,10 +36,3 @@ Git, Docker
 <div>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Barreiro&layout=donut&hide_title=true&langs_count=6&theme=dark" />
 </div>
-
----
-
-## Contactos
-
-- LinkedIn: https://www.linkedin.com/in/guilherme-barreiro-415b923a6/
-- Email: guibarreiro3@gmail.com
