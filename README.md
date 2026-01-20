@@ -32,25 +32,6 @@ Git, Docker
 
 ---
 
-## Projetos em destaque
-
-- **[ED_TP](https://github.com/Guilherme-Barreiro/ED_TP)**  
-  Trabalho prático focado em estruturas de dados e implementação de lógica fundamental.
-
-- **[PP-TP](https://github.com/Guilherme-Barreiro/PP-TP)**  
-  Projeto desenvolvido no âmbito da unidade curricular de Paradigmas de Programação, com foco em conceitos de OOP e organização de código.
-
-- **[IA](https://github.com/Guilherme-Barreiro/IA)**  
-  Projeto académico na área de Inteligência Artificial, abordando conceitos base e implementação prática.
-
-- **[LDS](https://github.com/Guilherme-Barreiro/LDS)**  
-  Desenvolvimento de uma aplicação com foco em análise, modelação e implementação de soluções informáticas.
-
-- **[PAW-TP](https://github.com/Guilherme-Barreiro/PAW-TP)**  
-  Aplicação web desenvolvida no contexto de Programação em Ambiente Web, envolvendo frontend, backend e base de dados.
-
----
-
 ## Estatísticas GitHub
 
 <div align="center">
