@@ -6,7 +6,7 @@
 
 ## Sobre mim
 Estudante de Engenharia Informática, atualmente a frequentar a licenciatura em Felgueiras, Portugal.  
-Gosto de desenvolver o de aplicações web e sistemas baseados em bases de dados relacionais.
+Gosto de desenvolver aplicações web e sistemas baseados em bases de dados relacionais.
 
 - Atualmente a trabalhar maioritariamente com **Java**
 - Interesse em **arquitetura de aplicações web** e **bases de dados relacionais**
