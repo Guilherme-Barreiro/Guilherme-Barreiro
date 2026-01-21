@@ -33,6 +33,3 @@ Gosto de desenvolver o de aplicações web e sistemas baseados em bases de dados
 </td>
 </tr>
 </table>
-
----
-
