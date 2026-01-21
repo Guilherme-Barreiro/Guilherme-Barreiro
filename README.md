@@ -6,11 +6,24 @@
 
 ## Sobre mim
 Estudante de Engenharia Informática, atualmente a frequentar a licenciatura em Felgueiras, Portugal.  
-Interesse em desenvolvimento de aplicações web e sistemas baseados em bases de dados relacionais.
+Gosto de desenvolver o de aplicações web e sistemas baseados em bases de dados relacionais.
 
 - Atualmente a trabalhar maioritariamente com **Java**
 - Interesse em **arquitetura de aplicações web** e **bases de dados relacionais**
 
+
+## Stack Tecnológica
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="36" />
+</p>
 </td>
 
 <td valign="top" width="40%" align="center">
@@ -23,31 +36,3 @@ Interesse em desenvolvimento de aplicações web e sistemas baseados em bases de
 
 ---
 
-## Stack Tecnológica
-
-**Linguagens:**  
-Java, SQL, PHP, JavaScript, C#
-
-**Frontend:**  
-HTML, CSS, JavaScript
-
-**Backend:**  
-Java, PHP, .NET
-
-**Bases de Dados:**  
-MySQL
-
-**Ferramentas:**  
-Git, Docker
-### Tecnologias e Linguagens
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg" height="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="36" />
-</p>
