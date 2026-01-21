@@ -11,19 +11,10 @@ Gosto de deselvolver aplicações web e sistemas baseados em bases de dados rela
 ## Stack Tecnológica
 
 **Linguagens:**  
-Java, SQL, PHP, JavaScript, C#
+Java, SQL, PHP, JavaScript, C#, Java, PHP, .NET
 
 **Frontend:**  
 HTML, CSS, JavaScript
-
-**Backend:**  
-Java, PHP, .NET
-
-**Bases de Dados:**  
-MySQL
-
-**Ferramentas:**  
-Git, Docker
 
 ---
 
